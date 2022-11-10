@@ -2,3 +2,5 @@
 * 👨‍💻 Previously, I was the architect for the Visual Studio Setup engine and still work on a number of setup-related projects including [vswhere](https://github.com/microsoft/vswhere).
 * 🪵 While I mainly use it for easy reference material, check out my [blog](https://heaths.dev).
 * 🐘 You can also find me on <a rel="me" href="https://fosstodon.org/@heaths">Mastodon</a>.
+
+<!-- <a rel="me" href="https://fosstodon.org/@heaths">Mastodon</a> -->
